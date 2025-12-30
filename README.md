@@ -16,13 +16,13 @@ Schau dir gerne meine Projekte an!
 
 ### IBM Data Science Professional Certificate
 
-[![IBM Data Science Professional Certificate](https://raw.github.com/StefanC05/StefanC05/blob/main/IBM_Data_Science_Prof_Certificate.png)](https://www.credly.com/badges/a561fe39-3415-433d-b9d2-0656b43e205c/public_url)
+[![IBM Data Science Professional Certificate](https://raw.github.com/StefanC05/StefanC05/main/IBM_Data_Science_Prof_Certificate.png)](https://www.credly.com/badges/a561fe39-3415-433d-b9d2-0656b43e205c/public_url)
 
 [🔗 IBM Data Science Professional Certificate – Verifizierung](https://www.credly.com/badges/a561fe39-3415-433d-b9d2-0656b43e205c/public_url)
 
 ---
 ### <packet> Time Series Forecasting Certificate
-[![Time Series Forecasting Certificate](https://raw.github.com/StefanC05/StefanC05/blob/main/packet_TimeSeries_G21ECCHXQM29.png)](https://www.coursera.org/account/accomplishments/verify/G21ECCHXQM29)
+[![Time Series Forecasting Certificate](https://raw.github.com/StefanC05/StefanC05/main/packet_TimeSeries_G21ECCHXQM29.png)](https://www.coursera.org/account/accomplishments/verify/G21ECCHXQM29)
 
 [🔗 A Practical Approach to Timeseries Forecasting Using Python – Verifizierung](https://www.coursera.org/account/accomplishments/verify/G21ECCHXQM29)
 
