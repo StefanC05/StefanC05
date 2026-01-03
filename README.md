@@ -1,14 +1,10 @@
-
-#  1 PROFIL README (Recruiter-Optimiert)
-
-<!-- Profile Header Banner - Optional: You can create one at canva.com -->
-![Header](https://your-header-image-url.png)
-
-<h1 align="center">Hi , I'm [YOUR_NAME]</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Time Series Specialist</h3>
+<h1 align="center">Hi , I'm Stefan Civelek</h1>
+<h3 align="center">IBM Data Scientist Professional</h3>
+<h3 align="center">Bachelor Professional: Certified IT Developer</h3>
+<h3 align="center">M.Sc. Psychologist</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="www.linkedin.com/in/stefan-civelek-b02b163a1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:[YOUR_EMAIL]">
@@ -23,21 +19,21 @@
 
 ## 2  Quick Summary
 
-- Currently working on **algorithmic trading research & time series forecasting**
+- Currently working on **algorithmic trading research**
 - Recently completed **IBM Data Science Professional Certificate**
 - Looking for **Data Scientist / ML Engineer positions** (Open to remote)
-- Based in **[CITY, COUNTRY]** (UTC+[TIMEZONE])
+- Based in **[Ratingen,Germany]** (UTC+1)
 - Ask me about **time series analysis, TCN models, backtesting frameworks**
 - Reach me at **[YOUR_EMAIL]**
 
 ---
 
-## 🚀3 Featured Projects
+## 3 Featured Projects
 
-###  Algorithmic Trading Research Framework
+### 📊 Algorithmic Trading Research Framework
 > **Production-ready backtesting system analyzing 500+ stocks with modern ML techniques**
 
--  **[View Project](https://github.com/[USERNAME]/algo-trading-framework)** | **[Live Demo](link)** | **[Documentation](link)**
+-  **[View Project](https://github.com/StefanC05/ML_ALgo_trading)** | **[Live Demo](link)** | **[Documentation](link)**
 -  **Tech Stack:** Python, TensorFlow, Pandas, NumPy, PostgreSQL
 -  **Key Features:**
   - Analyzes 500+ stocks with automated data pipeline
@@ -48,7 +44,7 @@
 
 ---
 
-###  SpaceX Launch Success Prediction
+###  🚀 SpaceX Launch Success Prediction
 **IBM Data Science Professional Capstone Project:End-to-end ML pipeline for launch outcome prediction**
 -  **[View Project](https://github.com/StefanC05/IBM_DataScience_Capstone)** | **[Presentation](https://github.com/StefanC05/IBM_DataScience_Capstone/blob/main/Capstone%20Presentation.pdf)**
 -  **Tech Stack:** Python, SQL, scikit-learn, Plotly, Dash
@@ -130,7 +126,9 @@ Feel free to reach out for:
 
 
 ** Email:** [YOUR_EMAIL]  
-** LinkedIn:** [YOUR_LINKEDIN_URL]  
+  <a href="www.linkedin.com/in/stefan-civelek-b02b163a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 ** Schedule a call:** [CALENDLY_LINK_IF_ANY]
 
 ---
