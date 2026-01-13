@@ -23,7 +23,7 @@
 - Recently completed **IBM Data Science Professional Certificate**
 - Looking for **Data Scientist / ML Engineer positions** (Open to remote)
 - Based in **[Ratingen,Germany]** (UTC+1)
-- Ask me about **time series analysis, TCN models, backtesting frameworks**
+- Ask me about **time series analysis, RandomForest models, Quant-Trading**
 - Reach me at **[YOUR_EMAIL]**
 
 ---
@@ -33,13 +33,13 @@
 ### 📊 Algorithmic Trading Research Framework
 > **Production-ready backtesting system analyzing 500+ stocks with modern ML techniques**
 
--  **[View Project](https://github.com/StefanC05/ML_ALgo_trading)** | **[Live Demo](link)** | **[Documentation](link)**
--  **Tech Stack:** Python, TensorFlow, Pandas, NumPy, PostgreSQL
+-  **[View Project](https://github.com/StefanC05/ML_AlgoTrading)** | **[Live Demo](link)** | **[Documentation](link)**
+-  **Tech Stack:** Python, TensorFlow, Pandas, NumPy
 -  **Key Features:**
-  - Analyzes 500+ stocks with automated data pipeline
-  - Implements TCN (Temporal Convolutional Networks) instead of traditional LSTM
-  - Modern PPS correlation analysis for feature selection
-  - Complete backtesting engine with walk-forward validation
+  - Analyzes 3200+ stocks with automated data pipeline
+  - Random Forest Model ( working on: implements TCN (Temporal Convolutional Networks))
+  - Modern mutual information analysis for feature selection
+  - Complete Data Science engine with walk-forward validation
  
 
 ---
@@ -60,8 +60,8 @@
 ##  Technical Skills
 ## neu ## 
 **Core Stack:** Python, TensorFlow, SQL
-**Specialties:** Time Series (TCN / Random Forest), Backtesting
-**Tools:** Pandas, Docker, Git
+**Specialties:** Time Series (Random Forest), AlgoTrading
+**Tools:** Pandas, Git
 
 
 ### Languages & Databases
