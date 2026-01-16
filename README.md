@@ -24,7 +24,7 @@
 - Looking for **Data Scientist / ML Engineer positions** (Open to remote)
 - Based in **[Ratingen,Germany]** (UTC+1)
 - Ask me about **time series analysis, RandomForest models, Quant-Trading**
-- Reach me at **[YOUR_EMAIL]**
+- Reach me at **[www.linkedin.com/in/stefan-civelek]**
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📊 Algorithmic Trading Research Framework
 > **Production-ready backtesting system analyzing 500+ stocks with modern ML techniques**
 
--  **[View Project](https://github.com/StefanC05/ML_AlgoTrading)** | **[Live Demo](link)** | **[Documentation](link)**
+-  **[View Project](https://github.com/StefanC05/ML_AlgoTrading)** | **[Live Demo](link)** | **[Presentation](https://github.com/StefanC05/ML_AlgoTrading/blob/master/Quanttrading%20Pipeline.odp)**
 -  **Tech Stack:** Python, TensorFlow, Pandas, NumPy
 -  **Key Features:**
   - Analyzes 3200+ stocks with automated data pipeline
@@ -41,27 +41,25 @@
   - Modern mutual information analysis for feature selection
   - Complete Data Science engine with walk-forward validation
  
-
 ---
 
 ###  🚀 SpaceX Launch Success Prediction
 **IBM Data Science Professional Capstone Project:End-to-end ML pipeline for launch outcome prediction**
 -  **[View Project](https://github.com/StefanC05/IBM_DataScience_Capstone)** | **[Presentation](https://github.com/StefanC05/IBM_DataScience_Capstone/blob/main/Capstone%20Presentation.pdf)**
--  **Tech Stack:** Python, SQL, scikit-learn, Plotly, Dash
+-  **Tech Stack:** Python, SQL, scikit-learn, Mathplot-lib
 -  **Key Features:**
   - Web scraping & API data collection from multiple sources
   - SQL database design and complex queries
   - Machine learning models with 83.33% accuracy
   - Feature engineering from payload, weather, and technical data
 
-
 ---
 
 ##  Technical Skills
 ## neu ## 
-**Core Stack:** Python, TensorFlow, SQL
+**Core Stack:** Python, SQL, scikit-learn
 **Specialties:** Time Series (Random Forest), AlgoTrading
-**Tools:** Pandas, Git
+**Tools:** Pandas, Git, Numpy, scikit-learn, 
 
 
 ### Languages & Databases
