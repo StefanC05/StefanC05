@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Stefan Civelek</h1>
 <h3 align="center">IBM Data Scientist Professional</h3>
 <h3 align="center">Bachelor Professional: Certified IT Developer</h3>
-<h3 align="center">M.Sc. Psychologist</h3>
+<h3 align="center">Data Scientist, Psychologist, IT Developer (C#, Python)</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/stefan-civelek-b02b163a1">
